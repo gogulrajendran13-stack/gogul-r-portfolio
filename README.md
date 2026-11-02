@@ -5,7 +5,7 @@ A high-performance, single-page developer portfolio showcasing full-stack Java w
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
 ## 🌐 Live Site
-Visit the live portfolio: [https://gogul-r-portfolio.vercel.app/](https://gogul-r-portfolio.vercel.app/)
+Visit the live portfolio: [https://gogul-r-portfolio.vercel.app/#projects](https://gogul-r-portfolio.vercel.app/#projects)
 
 ## 🛠️ Tech Stack
 - **Core:** React 19, Vite
